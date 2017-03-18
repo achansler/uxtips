@@ -21,7 +21,6 @@ body {
 
 * {
   font-family: 'Yantramanav', sans-serif;
-  color: #333447;
   line-height: 1.5;
 }
 
@@ -74,7 +73,7 @@ body {
 
 .row [class^="col"] {
   float: left;
-  margin: 0.5rem 2%;
+  padding: 0.5rem 2%;
   min-height: 0.125rem;
 }
 
