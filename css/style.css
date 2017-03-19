@@ -9,6 +9,7 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
+  background-color: #E3E0FF;
 }
 
 /* TYPOGRAPHY */
@@ -103,4 +104,72 @@ a {
 .small_link {
   margin-bottom: 50px;
 }
+
+
+/*COLORS*/
+
+.purple_background {
+  background-color: #EBE8FF;
+}
+
+.purple_text {
+  color: #8E86D6;
+}
+
+.teal_background {
+  background-color: #D2F8FA;
+}
+
+.teal_text {
+  color: #008088;
+}
+
+.green_background {
+  background-color: #BEFCEE;
+}
+
+.green_text {
+  color: #00A682;
+}
+
+.orange_background {
+  background-color: #FDEDD3;
+}
+
+.orange_text {
+  color: #D38200;
+}
+
+.pink_background {
+  background-color: #FFD5E7;
+}
+
+.pink_text {
+  color: #BF004C;
+}
+
+.blue_background {
+  background-color: #CEF7FF;
+}
+
+.blue_text {
+  color: #00809E;
+}
+
+.yellow_background {
+  background-color: #FFFBC8;
+}
+
+.yellow_text {
+  color: #EAD90D;
+}
+
+.lightgreen_background {
+  background-color: #EAFFD1;
+}
+
+.lightgreen_text {
+  color: #64B800;
+}
+
 
