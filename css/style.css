@@ -9,7 +9,7 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
-  background-color: #E3E0FF;
+  background-color: #FFD5E7;
 }
 
 /* TYPOGRAPHY */
@@ -60,7 +60,6 @@ a {
 }
 
 .main_tip {
-  background-color: #E3E0FF;
   padding: 40px 0px 100px 0px;
 }
 
@@ -71,7 +70,6 @@ a {
 }
 
 .logo {
-   color: #ffffff;
    margin-top: 0px;
    padding: 0px 10px 0px 10px;
 }
@@ -82,7 +80,6 @@ a {
 }
 
 .tip, .date {
-  color: #ffffff;
   margin-bottom: 0px;
   display: inline-block;
 }
