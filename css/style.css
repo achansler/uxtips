@@ -52,6 +52,10 @@ p {
   margin-bottom: 10px;
 }
 
+.small {
+  font-size: 1rem;
+}
+
 a {
   font-weight: 900;
   text-decoration: none;
@@ -187,5 +191,9 @@ a {
     .small_link a {
       font-size: 1.5rem;
     }
+}
+
+.height{
+  height: 425px;
 }
 
